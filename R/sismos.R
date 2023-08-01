@@ -7,4 +7,5 @@
 #' @name sismos
 #' @docType data
 #' @keywords datasets
-NULL
+#' @export
+sismos <- data.frame(sismos)
