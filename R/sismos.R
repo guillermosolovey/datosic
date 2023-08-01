@@ -8,4 +8,4 @@
 #' @docType data
 #' @keywords datasets
 #' @export
-sismos <- data.frame(sismos)
+NULL
